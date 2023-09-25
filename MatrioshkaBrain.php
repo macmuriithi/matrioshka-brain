@@ -20,6 +20,7 @@ class MatrioshkaBrain {
 
     private function analyzeSolutions($solutions) {
         // Simulated analysis logic (e.g., voting, averaging, etc.)
+        //Implement LLM analysis for the Matrioshka
         return "Matrioshka Brain analysis of solutions: " . implode(', ', $solutions);
     }
 }
